@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\today\importMiasta\importMiasta\bin\Debug\net6.0\importMiasta.exe
+C:\Users\student\Desktop\today\importMiasta\importMiasta\bin\Debug\net6.0\importMiasta.deps.json
+C:\Users\student\Desktop\today\importMiasta\importMiasta\bin\Debug\net6.0\importMiasta.runtimeconfig.json
+C:\Users\student\Desktop\today\importMiasta\importMiasta\bin\Debug\net6.0\importMiasta.dll
+C:\Users\student\Desktop\today\importMiasta\importMiasta\bin\Debug\net6.0\importMiasta.pdb
+C:\Users\student\Desktop\today\importMiasta\importMiasta\obj\Debug\net6.0\importMiasta.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\today\importMiasta\importMiasta\obj\Debug\net6.0\importMiasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\today\importMiasta\importMiasta\obj\Debug\net6.0\importMiasta.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\today\importMiasta\importMiasta\obj\Debug\net6.0\importMiasta.AssemblyInfo.cs
+C:\Users\student\Desktop\today\importMiasta\importMiasta\obj\Debug\net6.0\importMiasta.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\today\importMiasta\importMiasta\obj\Debug\net6.0\importMiasta.dll
+C:\Users\student\Desktop\today\importMiasta\importMiasta\obj\Debug\net6.0\refint\importMiasta.dll
+C:\Users\student\Desktop\today\importMiasta\importMiasta\obj\Debug\net6.0\importMiasta.pdb
+C:\Users\student\Desktop\today\importMiasta\importMiasta\obj\Debug\net6.0\importMiasta.genruntimeconfig.cache
+C:\Users\student\Desktop\today\importMiasta\importMiasta\obj\Debug\net6.0\ref\importMiasta.dll
